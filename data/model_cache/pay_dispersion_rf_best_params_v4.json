@@ -1,0 +1,19 @@
+{
+  "study_name": "pay_dispersion_random_forest_v4",
+  "best_value": 0.933162735098352,
+  "best_params": {
+    "n_estimators": 294,
+    "max_depth": 22,
+    "min_samples_split": 5,
+    "min_samples_leaf": 1,
+    "max_features": "log2"
+  },
+  "completed_trials": 50,
+  "context": {
+    "target": "log_pay_dispersion",
+    "train_rows": 1288,
+    "test_rows": 419,
+    "raw_features": 9,
+    "test_start_year": 2020
+  }
+}

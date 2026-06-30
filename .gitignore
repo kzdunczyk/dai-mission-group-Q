@@ -2,3 +2,5 @@
 .matplotlib-cache
 .DS_Store
 causal_model.png
+data/panel_clean.csv
+data/panel_analysis.csv

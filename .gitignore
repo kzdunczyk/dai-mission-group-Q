@@ -4,3 +4,5 @@
 causal_model.png
 data/panel_clean.csv
 data/panel_analysis.csv
+data/model_cache/pay_dispersion_test_metrics_v4.csv
+data/model_cache/pay_dispersion_test_metrics_v4.csv

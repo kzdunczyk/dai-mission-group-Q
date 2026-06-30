@@ -1,3 +1,4 @@
 .venv
+.matplotlib-cache
 .DS_Store
 causal_model.png

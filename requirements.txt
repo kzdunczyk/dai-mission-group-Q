@@ -2,7 +2,7 @@
 # Versions are intentionally left flexible so pip can resolve compatible wheels.
 ipykernel
 numpy
-pandas>=3.0.0
+pandas
 matplotlib
 seaborn
 scikit-learn
